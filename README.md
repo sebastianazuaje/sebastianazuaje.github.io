@@ -1,4 +1,4 @@
-# Data Scientist
+# Sebastian Azuaje Pardo
 
 #### Efficient data analysis + business-oriented results = innovative solutions
 
