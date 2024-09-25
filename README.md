@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, GCP, Power BI
 
 ## Education
 - Industrial Engineering | UCAB - Venezuela (_May 2021_)								       		
