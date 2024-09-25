@@ -46,11 +46,8 @@ Developed and deployed machine learning classification models to identify fraudu
 
 ## About me
 
-Industrial engineer with a passion for data analysis and display. My experience in process optimization and
-Efficient management is combined with strong technical skills in Python, SQL, Power BI, Tableau, VBA and Excel, added to the experience in cold sales and telematics.
-I look for exciting opportunities where I can apply my experience in industrial engineering to unravel insights meaningful from complex data sets.
-Passionate about transforming data into compelling stories and tangible actions, I am ready to contribute to the success of data analysis projects in any industry. With a
-analytical and results-oriented mentality, I enjoy facing challenges and seeking innovative solutions. Let's connect to explore how I can add value to your team.
+Industrial engineer with a passion for data analysis and visualization. Strong technical skills in Programming, machine learning and dive deep looking to unravel insights meaningful from complex data sets and query optimization.
+Passionate about transforming data into compelling stories and tangible actions, I am ready to contribute to the success of data analysis projects in any industry. Let's connect to explore how I can add value to your team.
 
 ## Languages I speak
 
