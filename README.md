@@ -63,4 +63,7 @@ Passionate about transforming data into compelling stories and tangible actions,
 - English (C2)
 - Russian (B2)
 
-
+## Links
+- LinkedIn: www.linkedin.com/in/sebastián-azuaje-731ab1199
+- Kaggle: sebastianazuajepardo
+- email: sebastian96ap@gmail.com
