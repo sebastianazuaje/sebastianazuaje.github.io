@@ -1,7 +1,7 @@
 # Sebastian Azuaje Pardo
 
 #### "_What do you do?_"
-#### "_Using scientific techniques, I transform complex data into strategic actions_"
+#### "_I use reliable data science to maximize efficiency and minimize business risks_"
 
 ## Skills and knowledge in:
 
