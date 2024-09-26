@@ -1,24 +1,27 @@
 # Sebastian Azuaje Pardo
 
-#### "Efficient data analysis + business-oriented results = innovative solutions"
+#### "_What do you do?_"
+#### "_Using scientific techniques, I transform complex data into strategic actions_"
 
-## Education
-- Industrial Engineering | UCAB - Venezuela (_May 2021_)								       		
-- DS4B	| Introduction to data science for business (_December 2022_)	 			        		
-- Data Science | Dicampus, SEPE - Spain (_May 2023_)
+## Skills and knowledge in:
 
-## Work Experience
+- Python, R, HTML, CSS, Tableau, Power BI
+- Excel, VBA, PostgreSQL, MySQL, SQLite, MongoDB
+- Flask, Django, Streamlit, Scikit-learn, Pandas, Matplotlib, Seaborn
+- GCP, AWS, Azure, Notion, Microsoft Project
+
+## What I used to do working in
 **Treasury @BritishAmerican Tobacco**
-- Analysis of financial data and optimization of treasury processes
+- Analysis of financial data, identification of potential risks
 - Creation of Dashboards in Tableau for internal and external operations
 - Collaboration with teams to make data-based decisions
 
 **Data Science Consultant @ COB MARKETING S.L**
-- Predictive analysis using advanced SQL and Python for telecommunications campaigns
-- Design and maintenance of reports and dashboards in Power BI
+- Predictive analysis using SQL databases and Python for telecommunications campaigns buying
+- Build an interactive dashboards in Power BI
 - Identification of areas of improvement and growth opportunities based on data analysis
   
-## Projects
+## Projects to challenge my skills
 ### Route optimization and delivery time prediction for Amazon Pola Siero
 [Information of the new Center](https://www.linkedin.com/jobs/amazon-empleos-pola-de-siero/)
 
@@ -44,10 +47,15 @@ Through web scraping the first 10 pages I request access to the API from the web
 
 Developed and deployed machine learning classification models to identify fraudulent transactions. My work involved data preprocessing, feature engineering, and building models like logistic regression, decision trees, and random forests. I optimized model performance using techniques like cross-validation and hyperparameter tuning, ensuring high accuracy in detecting fraudulent activities while minimizing false positives. Additionally, I collaborated with business stakeholders to implement the models into production systems, contributing to reduced fraud losses and improved financial security.
 
-## About me
+## Know more about me
 
 Industrial engineer with a passion for data analysis and visualization. Strong technical skills in Programming, machine learning and dive deep looking to unravel insights meaningful from complex data sets and query optimization.
 Passionate about transforming data into compelling stories and tangible actions, I am ready to contribute to the success of data analysis projects in any industry. Let's connect to explore how I can add value to your team.
+
+## Education
+- Industrial Engineering | UCAB - Venezuela (_May 2021_)								       		
+- DS4B	| Introduction to data science for business (_December 2022_)	 			        		
+- Data Science | Dicampus, SEPE - Spain (_May 2023_)
 
 ## Languages I speak
 
@@ -55,9 +63,4 @@ Passionate about transforming data into compelling stories and tangible actions,
 - English (C2)
 - Russian (B2)
 
-## Skills and knowledge in:
 
-- Python, R, HTML, CSS, Tableau, Power BI
-- Excel, VBA, PostgreSQL, MySQL, SQLite, MongoDB
-- Flask, Django, Streamlit, Scikit-learn, Pandas, Matplotlib, Seaborn
-- GCP, AWS, Azure, Notion, Microsoft Project
